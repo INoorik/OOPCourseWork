@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\svina\source\repos\CourseWork\CourseWork\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\ForPilots\AddPIlotForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ForPilots\FilterPilotForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ForPilots\UpdatePilotForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ForMain\AuthorInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ForFlights\AddFlightForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ForFlights\FilterFlightForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ForFlights\UpdateFlightForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ForPlanes\AddPlaneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ForPlanes\FilterPlaneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ForPlanes\UpdatePlaneForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
