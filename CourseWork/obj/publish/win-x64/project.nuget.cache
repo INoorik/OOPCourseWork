@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3neN29kmFCZwMc7nrdb3B/RvvuanBeDET5LDjlk2n2oFxonOM1L8TzB2ZI/lgjGiqty+LZ9u/AzjRTsY/LlJw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\inoorik\\Desktop\\oop-course-work\\oop-course-work\\CourseWork\\CourseWork.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x64"
+    }
+  ]
+}
